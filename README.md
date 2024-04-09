@@ -59,3 +59,4 @@ The project involves deploying a scalable, fault-tolerant, and highly available 
 
 ---
 ![Alt text](dynamic-web-screenshot.png)
+Screenshot of the website fully deployed
