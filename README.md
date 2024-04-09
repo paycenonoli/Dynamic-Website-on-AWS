@@ -58,4 +58,4 @@ The project involves deploying a scalable, fault-tolerant, and highly available 
 - Test the deployment thoroughly before deploying in production environments.
 
 ---
-![Alt text]("C:\Users\ogboo\OneDrive\Pictures\Screenshots\dynamic-web-screenshot.png")
+![Alt text](C:\Users\ogboo\OneDrive\Pictures\Screenshots\dynamic-web-screenshot.png)
