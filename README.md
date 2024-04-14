@@ -59,4 +59,4 @@ The project involves deploying a scalable, fault-tolerant, and highly available 
 
 ---
 ![Alt text](screenshot-dynamic-website.png)
-Website deployed, using https (SSL) to secure traffic between end users and the application server. 
+Above, I have successfully deployed a secure, highly available, and fault-tolerant application on a 3-Tier architecture. 
