@@ -59,4 +59,4 @@ The project involves deploying a scalable, fault-tolerant, and highly available 
 
 ---
 ![Alt text](screenshot-dynamic-website.png)
-Above, I have successfully deployed a secure, highly available, and fault-tolerant application on a 3-Tier architecture. 
+Above, I have successfully deployed a secure, highly available, and fault-tolerant dynamic website on a 3-Tier architecture. 
