@@ -58,4 +58,5 @@ The project involves deploying a scalable, fault-tolerant, and highly available 
 - Test the deployment thoroughly before deploying in production environments.
 
 ---
-
+![Alt text](screenshot-dynamic-website.png)
+Website deployed, using https (SSL) to secure traffic between end users and the application server. 
