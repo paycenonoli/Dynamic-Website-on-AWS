@@ -35,7 +35,7 @@ The project involves deploying a scalable, fault-tolerant, and highly available 
 - Downloads web files from Amazon S3 to `/var/www/html`.
 - Extracts application code and sets appropriate permissions.
 - Configures environment variables.
-- Restarts Apache server for changes to take effect.
+- Restarts the Apache server for changes to take effect.
 
 ### Flyway Database Migration Script (`migrate-sql-data.sh`)
 
